@@ -28,7 +28,7 @@ Este proyecto busca analizar la evolución del nivel del mar desde 1880 hasta la
 
 ## 📊 Datos: Origen y Descripción:
 - **Fuente:** Conjunto de datos proporcionado por FreeCodeCamp.
-- **Contenido:** Datos historicos del nivel del mar.
+- **Contenido:** Datos históricos del nivel del mar.
 
 
 <!--horizontal divider(gradiant)-->
